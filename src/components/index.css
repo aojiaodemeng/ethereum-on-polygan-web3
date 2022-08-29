@@ -1,0 +1,25 @@
+
+.home{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.metaMaskInsInfo{
+    display: flex;
+    flex-direction: column;
+    
+}
+.metaMaskInsBtn{
+    margin-top: 20px;
+    height: 40px;
+}
+
+
+
+.metaMaskInfo{
+    margin-top: 100px;
+    text-align: left;
+}
